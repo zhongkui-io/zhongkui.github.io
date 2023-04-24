@@ -1,0 +1,4 @@
+baseURL = 'http://zhongkui.github.io/'
+languageCode = 'en-us'
+title = 'zhongkui.io'
+theme = 'ananke'
